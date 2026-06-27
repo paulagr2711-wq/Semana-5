@@ -1,0 +1,17 @@
+Las APIs actúan como el puente organizador ideal para una comunidad porque eliminan el caos de la comunicación informal (como las cadenas de mensajes o los 
+grupos de WhatsApp) y lo transforman en un flujo de datos eficiente.
+
+Su impacto se basa principalmente en tres pilares:
+
+Estandarización: Una API obliga a que la información se envíe bajo una estructura fija y limpia (como el formato JSON que acabamos de probar).
+Esto evita reportes incompletos o confusos, ya que cada dato (tipo de alerta, ubicación, mensaje) llega exactamente a donde debe.
+
+Centralización: Permite que diferentes herramientas se conecten al mismo servidor. Los vecinos podrían reportar algo desde una aplicación móvil,
+otros desde una página web, y la administración comunitaria ver todo consolidado en un solo panel de control en tiempo real.
+
+Automatización y Filtros: Al recibir datos organizados, el sistema puede clasificar automáticamente los reportes por urgencia o categoría 
+(por ejemplo, separar una alerta de seguridad de un reporte de mantenimiento de vías), asignando prioridades de forma inmediata sin depender de que un
+humano lea y clasifique cada mensaje manualmente.
+
+En conclusión, las APIs convierten las intenciones de ayuda de una comunidad en un sistema automatizado,
+ escalable y verdaderamente útil para la toma de decisiones.
